@@ -2,7 +2,7 @@ Depression Prediction Using Machine Learning
 
 COMP 560 Final Project — Harjas Kaur, Sanjana Nalla, Nidhi Padala, Tejaswi Paladugu
 
-This project explores how different machine learning models perform when predicting depression using a large synthetic mental health survey dataset from the Kaggle Playground Series (Season 4, Episode 11). Each entry in the dataset represents a generated survey response with demographic, academic, lifestyle, and stress-related features, paired with a binary depression label. Our goal was to evaluate how well various models could classify respondents as depressed or non-depressed.
+This project explores how different machine learning models perform when predicting depression using a large synthetic mental health survey dataset from the Kaggle Playground Series (Season 4, Episode 11: ``Exploring Mental Health Data''). Each entry in the dataset represents a generated survey response with demographic, academic, lifestyle, and stress-related features, paired with a binary depression label. Our goal was to evaluate how well various models could classify respondents as depressed or non-depressed.
 
 Project Overview
 
